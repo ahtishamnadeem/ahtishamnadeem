@@ -1,37 +1,61 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahtisham</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Designer | 🤖 AI Enthusiast from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamnadeem&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamnadeem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahtishamnadeem" alt="ahtishamnadeem" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 Client Website Demo [TUTOR'S ACADEMY](https://tutors-academy.com/)
-
-- 🌱 I’m currently learning **Cloud-native AI engineering, Python, NextJs**
-
-- 👯 I’m looking to collaborate on **exciting projects, innovative ideas,and work with passionate developers.**
-
-- 👨‍💻 All of my projects are available at [https://my-personal-portfolio-website-lilac.vercel.app/](https://my-personal-portfolio-website-lilac.vercel.app/)
-
-- 💬 Ask me about **ReactJs, JavaScript**
-
-- 📫 How to reach me **ahtisham0101@gmail.com**
-
-- 📄 Know about my experiences [https://milestone1-2-theta.vercel.app/](https://milestone1-2-theta.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad ahtisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/aY4A8w5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/aY4A8w5g" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahtishamnadeem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahtishamnadeem&theme=dracula&margin-w=10&margin-h=10" alt="trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamnadeem&show_icons=true&locale=en&layout=compact" alt="ahtishamnadeem" /></p>
+## 👨‍💻 About Me  
+- 🔭 Currently working on **AI-Powered Agents** & **Client Websites**  
+- 🌱 Learning **Cloud-Native AI Engineering, Python, Next.js**  
+- 👯 Looking to collaborate on **innovative frontend & AI projects**  
+- 👨‍💻 Portfolio: [my-personal-portfolio](https://my-personal-portfolio-website-lilac.vercel.app/)  
+- 💬 Ask me about **React.js, JavaScript, UI/UX Design**  
+- 📫 Reach me at **ahtisham0101@gmail.com**  
+- 📄 My CV: [View Resume](https://milestone1-2-theta.vercel.app/)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamnadeem&show_icons=true&locale=en" alt="ahtishamnadeem" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamnadeem&" alt="ahtishamnadeem" /></p>
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-ahtisham" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://discord.gg/aY4A8w5g" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+<a href="mailto:ahtisham0101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,figma,ai,ps" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🎓 [Career Mentor Agent](https://github.com/ahtishamnadeem/Career_Mentor-Agent) – Multi-agent career guidance system  
+- 🎮 [Game Master Agent](https://github.com/ahtishamnadeem/Game-Master-Agent) – Interactive AI adventure game  
+- ✈️ [Travel Agent](https://github.com/ahtishamnadeem/Travel-Agent) – AI-based travel planner  
+- 🤖 [Smart Student Agent](https://github.com/ahtishamnadeem/Smart_Student_AIAgent) – AI academic assistant for students  
+- 🏫 [Tutor’s Academy](https://tutors-academy.com/) – Client website (responsive & dynamic)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahtishamnadeem&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamnadeem&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamnadeem&theme=radical" height="180" />
+</p>
+
+---
+
+⭐️ **Developed with ❤️ by [Muhammad Ahtisham](https://github.com/ahtishamnadeem)**
