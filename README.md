@@ -11,11 +11,11 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on **AI-Powered Agents** & **Client Websites**  
-- 🌱 Learning **Cloud-Native AI Engineering, Python, Next.js**  
+- 🔭 Currently working on **AI-Powered Agents** & **Client Websites**
+- 🌱 Learning **Cloud-Native AI Engineering (GIAIC - Governor Sindh Initiative)**, Modern-AI Python, Next.js  
 - 👯 Looking to collaborate on **innovative frontend & AI projects**  
 - 👨‍💻 Portfolio: [my-personal-portfolio](https://my-personal-portfolio-website-lilac.vercel.app/)  
-- 💬 Ask me about **React.js, JavaScript, UI/UX Design**  
+- 💬 Ask me about **Frontend/Backend, UI/UX Design**  
 - 📫 Reach me at **ahtisham0101@gmail.com**  
 - 📄 My CV: [View Resume](https://milestone1-2-theta.vercel.app/)  
 
