@@ -12,10 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Frontend+Architect;🤖+AI+Agent+Specialist;🎨+UI/UX+Designer;🧠+Cloud-Native+Engineer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahtishamnadeem&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ## 💫 About Me
@@ -63,21 +59,10 @@
 
 ---
 
-## 🚀 Featured Agentic Projects
-
-| Project | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **🤖 Career Mentor** | Python, LangGraph, RAG | [View Repo](https://github.com/ahtishamnadeem/Career_Mentor-Agent) |
-| **📘 Sigma RAG** | Docusaurus, SpekitPlus, AI | [Live Demo](https://sigma-hackathon-4-specify-plus.vercel.app/) |
-| **🎮 Game Master** | Next.js, Claude API | [View Repo](https://github.com/ahtishamnadeem/Game-Master-Agent) |
-| **🏫 Tutor’s Academy** | React, Tailwind, Database | [Live Demo](https://tutors-academy.com/) |
-
----
-
 ## 📊 Analytics & Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahtishamnadeem&show_icons=true&theme=radical&rank_icon=github&border_radius=10&show_owner=true" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamnadeem&layout=compact&theme=radical&border_radius=10" height="190" />
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=ahtishamnadeem&show_icons=true&theme=radical&rank_icon=github&border_radius=10&count_private=true" height="180" />
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=ahtishamnadeem&layout=compact&theme=radical&border_radius=10" height="180" />
 </p>
 
 <p align="center">
@@ -86,7 +71,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Blue & Purple Edition)
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahtishamnadeem/ahtishamnadeem/output/github-contribution-grid-snake-dark.svg">
