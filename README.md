@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Frontend+Architect;🤖+AI+Agent+Specialist;🎨+UI/UX+Designer;🧠+Cloud-Native+Engineer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahtishamnadeem&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## 💫 About Me
@@ -23,6 +27,7 @@
         <li>🔭 Working on <b>Multi-Agent AI Systems</b></li>
         <li>🌱 Mastering <b>Cloud-Native AI (GIAIC)</b></li>
         <li>👯 Collaborative Lead at <b>Innovative Projects</b></li>
+        <li>👨‍💻 Portfolio: <a href="https://my-personal-portfolio-website-lilac.vercel.app/">Click to Visit</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -31,6 +36,7 @@
         <li>🧠 <b>RAG Workflows</b> & LLM Fine-tuning</li>
         <li>⚡ <b>Next.js 15</b> & High-Perf Frontend</li>
         <li>🛠️ <b>System Design</b> & UI Psychology</li>
+        <li>📄 Resume: <a href="https://milestone1-2-theta.vercel.app/">View My CV</a></li>
       </ul>
     </td>
   </tr>
@@ -57,6 +63,17 @@
 
 ---
 
+## 🚀 Featured Agentic Projects
+
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **🤖 Career Mentor** | Python, LangGraph, RAG | [View Repo](https://github.com/ahtishamnadeem/Career_Mentor-Agent) |
+| **📘 Sigma RAG** | Docusaurus, SpekitPlus, AI | [Live Demo](https://sigma-hackathon-4-specify-plus.vercel.app/) |
+| **🎮 Game Master** | Next.js, Claude API | [View Repo](https://github.com/ahtishamnadeem/Game-Master-Agent) |
+| **🏫 Tutor’s Academy** | React, Tailwind, Database | [Live Demo](https://tutors-academy.com/) |
+
+---
+
 ## 📊 Analytics & Impact
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahtishamnadeem&show_icons=true&theme=radical&rank_icon=github&border_radius=10&show_owner=true" height="190" />
@@ -69,7 +86,18 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Contribution Snake (Blue & Purple Edition)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahtishamnadeem/ahtishamnadeem/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahtishamnadeem/ahtishamnadeem/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahtishamnadeem/ahtishamnadeem/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammadahtishamwebdev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.gg/aY4A8w5g" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -77,12 +105,10 @@
 <a href="https://my-personal-portfolio-website-lilac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahtishamnadeem/ahtishamnadeem/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%"/>
+</p>
+
+<p align="right">
+  ⭐️ Developed with ❤️ by <b>Muhammad Ahtisham</b>
 </p>
