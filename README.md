@@ -1,61 +1,88 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahtisham</h1>
-<h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Designer | 🤖 AI Enthusiast from Pakistan</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Muhammad%20Ahtisham&fontSize=80&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=25" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahtishamnadeem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahtishamnadeem&theme=dracula&margin-w=10&margin-h=10" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahtishamnadeem&theme=dracula&no-frame=false&margin-w=15&margin-h=15&column=4" alt="trophies" />
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me  
-- 🔭 Currently working on **AI-Powered Agents** & **Client Websites**
-- 🌱 Learning **Cloud-Native AI Engineering (GIAIC - Governor Sindh Initiative)**, Modern-AI Python, Next.js  
-- 👯 Looking to collaborate on **innovative frontend & AI projects**  
-- 👨‍💻 Portfolio: [my-personal-portfolio](https://my-personal-portfolio-website-lilac.vercel.app/)  
-- 💬 Ask me about **Frontend/Backend, UI/UX Design**  
-- 📫 Reach me at **ahtisham0101@gmail.com**  
-- 📄 My CV: [View Resume](https://milestone1-2-theta.vercel.app/)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Frontend+Architect;🤖+AI+Agent+Specialist;🎨+UI/UX+Designer;🧠+Cloud-Native+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 💫 About Me
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I'm Up To</h3>
+      <ul>
+        <li>🔭 Working on <b>Multi-Agent AI Systems</b></li>
+        <li>🌱 Mastering <b>Cloud-Native AI (GIAIC)</b></li>
+        <li>👯 Collaborative Lead at <b>Innovative Projects</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 My Expertise</h3>
+      <ul>
+        <li>🧠 <b>RAG Workflows</b> & LLM Fine-tuning</li>
+        <li>⚡ <b>Next.js 15</b> & High-Perf Frontend</li>
+        <li>🛠️ <b>System Design</b> & UI Psychology</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Advanced Tech Stack & AI Toolkit
+
+### 💻 Development & Databases
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-ahtisham" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://discord.gg/aY4A8w5g" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
-<a href="mailto:ahtisham0101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,figma,mongodb,postgres,supabase,firebase,mysql,redis,vercel,vscode" />
+</p>
+
+### 🤖 AI Ecosystem & Specialized Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG%20Chatbot-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-7C4DFF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen%20AI-6366F1?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bonsai-3FB27F?style=for-the-badge&logo=leaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpekitPlus-FF4B4B?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF9900?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 📊 Analytics & Impact
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,figma,ai,ps" />
-</p>
-
----
-
-## 🚀 Featured Projects
-- 🎓 [Career Mentor Agent](https://github.com/ahtishamnadeem/Career_Mentor-Agent) – Multi-agent career guidance system  
-- 🎮 [Game Master Agent](https://github.com/ahtishamnadeem/Game-Master-Agent) – Interactive AI adventure game  
-- ✈️ [Travel Agent](https://github.com/ahtishamnadeem/Travel-Agent) – AI-based travel planner  
-- 🤖 [Smart Student Agent](https://github.com/ahtishamnadeem/Smart_Student_AIAgent) – AI academic assistant for students  
-- 🏫 [Tutor’s Academy](https://tutors-academy.com/) – Client website (responsive & dynamic)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahtishamnadeem&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamnadeem&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahtishamnadeem&show_icons=true&theme=radical&rank_icon=github&border_radius=10&show_owner=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamnadeem&layout=compact&theme=radical&border_radius=10" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamnadeem&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamnadeem&theme=radical&border_radius=10" width="100%" />
 </p>
 
 ---
 
-⭐️ **Developed with ❤️ by [Muhammad Ahtisham](https://github.com/ahtishamnadeem)**
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammadahtishamwebdev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.gg/aY4A8w5g" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:ahtisham0101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://my-personal-portfolio-website-lilac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahtishamnadeem/ahtishamnadeem/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%"/>
+</p>
